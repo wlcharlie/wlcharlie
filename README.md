@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+我是查理，台灣台中人
+
+目前正在努力coding，
+
+正在努力
+⚛️React
+
+目前習得
+✔️HTML
+✔️CSS
+✔️JavaScript
+✔️AJAX
+✔️Bootstrap
+✔️Node.js
+✔️Express.js
+✔️MongoDB + mongoose
+✔️MySQL + sequelize
+
 <!--
 **wlcharlie/wlcharlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
