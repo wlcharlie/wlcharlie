@@ -4,18 +4,27 @@
 
 目前正在努力coding，
 
-正在努力
+正在努力：
 ⚛️React
 
-目前習得
+目前習得：
+
 ✔️HTML
+
 ✔️CSS
+
 ✔️JavaScript
+
 ✔️AJAX
+
 ✔️Bootstrap
+
 ✔️Node.js
+
 ✔️Express.js
+
 ✔️MongoDB + mongoose
+
 ✔️MySQL + sequelize
 
 <!--
