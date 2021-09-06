@@ -2,27 +2,18 @@
 
 我是查理，台灣台中人
 
-目前正在努力coding，
 
 ⚛️React
 
-✔️HTML
+✔️HTML | CSS | JavaScript
 
-✔️CSS
+✔️Bootstrap | Chakra-ui
 
-✔️JavaScript
+✔️Node.js | Express.js
 
-✔️AJAX
+✔️MongoDB | MySQL
 
-✔️Bootstrap
-
-✔️Node.js
-
-✔️Express.js
-
-✔️MongoDB + mongoose
-
-✔️MySQL + sequelize
+😄 [My note blog](https://wlcharlie.github.io/)
 
 <!--
 **wlcharlie/wlcharlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
