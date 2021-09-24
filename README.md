@@ -1,19 +1,28 @@
 ### Hi there 👋
 
-我是查理，台灣台中人
+I am Charlie from Taichung, Taiwan.
+
+A Web Developer focus on Front-End, and using React and also related libary.
 
 
-⚛️React
+⚛️React-ing
 
-✔️HTML | CSS | JavaScript
+MY TECH STACK
 
-✔️Bootstrap | Chakra-ui
+🟢🟢🟢🟢🟢 HTML | CSS | JavaScript | React
 
-✔️Node.js | Express.js
+🟢🟢🟢⚫⚫Some CSS framwork(Bootstrap | Chakra-ui)
 
-✔️MongoDB | MySQL
+🟢🟢🟢⚫⚫Node.js | Express.js
+
+🟢🟢⚫⚫⚫MongoDB | MySQL
 
 😄 [My note blog](https://wlcharlie.github.io/)
+💻 [Projects](https://wlcharlie.github.io/projects/)
+🐶 [Latest Project - PetCord](https://github.com/wlcharlie/React-pet-cord)
+
+📫 wl00606352@gmail.com
+
 
 <!--
 **wlcharlie/wlcharlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
