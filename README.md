@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Front-End Engineer-ing @  Taipei
+
 I am Charlie from Taichung, Taiwan.
 
 A Web Developer focus on Front-End, and using React and also related libary.
