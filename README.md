@@ -2,9 +2,11 @@
 
 Front-End Engineer-ing @  Taipei
 
+目前是新手前端工程師，請多多指教。
+
 I am Charlie from Taichung, Taiwan.
 
-A Web Developer focus on Front-End, and using React and also related libary.
+A Web Developer focus on Front-End, using React and also related libary.
 
 
 ⚛️React-ing
