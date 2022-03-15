@@ -21,9 +21,6 @@ MY TECH STACK
 
 🟢🟢⚫⚫⚫MongoDB | MySQL
 
-😄 [My note blog](https://wlcharlie.github.io/)
-💻 [Projects](https://wlcharlie.github.io/projects/)
-🐶 [Latest Project - PetCord](https://github.com/wlcharlie/React-pet-cord)
 
 📫 wl00606352@gmail.com
 
