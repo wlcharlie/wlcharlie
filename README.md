@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Front-End Engineer-ing @  Taipei
+Front-End Engineer-ing @ Taipei
 
-目前是新手前端工程師，請多多指教。
+前端工程師，請多多指教。
 
 I am Charlie from Taichung, Taiwan.
 
-A Web Developer focus on Front-End, using React and also related libary.
+A Front End Web Developer, using React and also related libary.
 
 
 ⚛️React-ing
@@ -15,7 +15,7 @@ MY TECH STACK
 
 🟢🟢🟢🟢🟢 HTML | CSS | JavaScript | React
 
-🟢🟢🟢⚫⚫Some CSS framwork(Bootstrap | Chakra-ui)
+🟢🟢🟢⚫⚫Some CSS framwork(MUI | Bootstrap | Chakra-ui)
 
 🟢🟢🟢⚫⚫Node.js | Express.js
 
