@@ -15,7 +15,7 @@ MY TECH STACK
 
 🟢🟢🟢🟢🟢 HTML | CSS | JavaScript | React
 
-🟢🟢🟢⚫⚫Some CSS framwork(MUI | Bootstrap | Chakra-ui)
+🟢🟢🟢🟢⚫Some CSS framwork(MUI | Bootstrap | Chakra-ui)
 
 🟢🟢🟢⚫⚫Node.js | Express.js
 
