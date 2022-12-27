@@ -1,26 +1,8 @@
 ### Hi there 👋
 
-Front-End Engineer-ing @ Taipei
+Front-End Wev Developer @ Taiwan
 
-前端工程師，請多多指教。
-
-I am Charlie from Taichung, Taiwan.
-
-A Front End Web Developer, using React and also related libary.
-
-
-⚛️React-ing
-
-MY TECH STACK
-
-🟢🟢🟢🟢🟢 HTML | CSS | JavaScript | React
-
-🟢🟢🟢🟢⚫Some CSS framwork(MUI | Bootstrap | Chakra-ui)
-
-🟢🟢🟢⚫⚫Node.js | Express.js
-
-🟢🟢⚫⚫⚫MongoDB | MySQL
-
+and I Love Cats :D
 
 📫 wl00606352@gmail.com
 
