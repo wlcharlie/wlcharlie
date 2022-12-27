@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Front-End Wev Developer @ Taiwan
+Front-End Web Developer @ Taiwan
 
 and I Love Cats :D
 
